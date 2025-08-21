@@ -1,4 +1,4 @@
-// pages/index.js
+// pages/index.jsx
 import Link from 'next/link';
 
 export default function Home() {
@@ -42,4 +42,5 @@ export default function Home() {
       `}</style>
     </div>
   );
+
 }
