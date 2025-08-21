@@ -32,8 +32,8 @@ GitHub Repo: [pixabeam-events-app](https://github.com/alisha85-analyst/pixabeam-
 
 4. Create a .env.local file and add:
    ```bash
-   NEXT_PUBLIC_SUPABASE_URL=https://dfsogeooimxqhczidhuh.supabase.co
-   NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRmc29nZW9vaW14cWhjemlkaHVoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTU2Njg0OTMsImV4cCI6MjA3MTI0NDQ5M30.bLIPMk21FszsMTSYZyCtWCVrauXDwchEu7s9qqlojJY
+   NEXT_PUBLIC_SUPABASE_URL=my_supabase_project_url
+   NEXT_PUBLIC_SUPABASE_ANON_KEY=my_supabase_anon_key
 
 
 4. Run the app locally
