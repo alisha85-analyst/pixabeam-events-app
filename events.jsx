@@ -1,4 +1,4 @@
-// pages/events.js
+// pages/events.jsx
 import { useEffect, useState } from 'react';
 import supabase from '../lib/supabaseClient';
 
@@ -39,3 +39,4 @@ export default function EventsPage() {
     </div>
   );
 }
+
