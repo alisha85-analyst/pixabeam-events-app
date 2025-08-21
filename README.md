@@ -10,10 +10,10 @@ A minimal event listing and RSVP app built with **Next.js** and **Supabase**, de
 
 ## 🚀 Features
 
-- 🏠 Homepage with navigation to events and RSVP pages
-- 📋 Events listing from Supabase
-- ✅ RSVP form with Supabase write access
-- 🔗 Live deployment via Vercel
+- 🏠 Homepage with navigation to events and RSVP pages  
+- 📋 Events listing from Supabase  
+- ✅ RSVP form with Supabase write access  
+- 🔗 Live deployment via Vercel  
 
 ---
 
