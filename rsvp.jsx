@@ -1,4 +1,4 @@
-// pages/rsvp.js
+// pages/rsvp.jsx
 import { useEffect, useState } from 'react';
 import supabase from '../lib/supabaseClient';
 
@@ -52,3 +52,4 @@ export default function RSVPPage() {
     </div>
   );
 }
+
