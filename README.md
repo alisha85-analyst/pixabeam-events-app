@@ -27,15 +27,16 @@ GitHub Repo: [pixabeam-events-app](https://github.com/alisha85-analyst/pixabeam-
    cd pixabeam-events-app
    
 2. Install dependencies
-npm install
+   ```bash
+   npm install
 
-3. Create a .env.local file and add:
-
-NEXT_PUBLIC_SUPABASE_URL=https://dfsogeooimxqhczidhuh.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRmc29nZW9vaW14cWhjemlkaHVoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTU2Njg0OTMsImV4cCI6MjA3MTI0NDQ5M30.bLIPMk21FszsMTSYZyCtWCVrauXDwchEu7s9qqlojJY
+4. Create a .env.local file and add:
+   ```bash
+   NEXT_PUBLIC_SUPABASE_URL=https://dfsogeooimxqhczidhuh.supabase.co
+   NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRmc29nZW9vaW14cWhjemlkaHVoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTU2Njg0OTMsImV4cCI6MjA3MTI0NDQ5M30.bLIPMk21FszsMTSYZyCtWCVrauXDwchEu7s9qqlojJY
 
 
 4. Run the app locally
-
-npm run dev
+   ```bash
+   npm run dev
 
